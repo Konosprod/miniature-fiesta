@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name     vndb-random
-// @version  1
+// @version  1.0.0
 // @grant GM.xmlHttpRequest
 // @include https://vndb.org/*
 // @require       https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js
